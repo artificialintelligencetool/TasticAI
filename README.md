@@ -3,8 +3,6 @@ a Website to discover AI tools
 
 # TasticAI.com
 
-![TasticAI Logo]([[https://www.tasticai.com/images/logo.png](https://tasticai.com/wp-content/uploads/2023/09/tasticai-ai-tools-hub-2.png)](https://tasticai.com/wp-content/uploads/2023/09/tasticai-ai-tools-hub-2.png))
-
 Welcome to the TasticAI.com GitHub repository! TasticAI.com is a comprehensive website that lists and compares over 7000 AI tools for various purposes. This repository is the central hub for managing the project, tracking issues, and collaborating with the community.
 
 ## Table of Contents
