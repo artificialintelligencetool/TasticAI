@@ -40,3 +40,18 @@ To get started with TasticAI.com, you can visit the live website at [https://www
 - Git: [Install Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 - Node.js and npm: [Install Node.js and npm](https://nodejs.org/)
 - Yarn: [Install Yarn](https://classic.yarnpkg.com/en/docs/install/)
+
+### Contributing
+We welcome contributions from the community! Whether it's fixing a bug, adding a new feature, or improving documentation, your contributions help make TasticAI.com better.
+
+Please review our Contributing Guidelines for detailed information on how to contribute to this project.
+
+### License
+This project is licensed under the MIT License.
+
+### Contact
+If you have any questions, suggestions, or issues related to TasticAI.com, please feel free to contact us at:
+
+Website: https://www.tasticai.com
+GitHub Issues: TasticAI Issues
+Thank you for your interest in TasticAI.com, and we look forward to your contributions!
